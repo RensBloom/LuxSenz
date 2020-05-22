@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo insmod vlc.ko frq=3
+echo 1 > /proc/vlc/rx

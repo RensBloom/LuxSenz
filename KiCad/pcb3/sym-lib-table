@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Amplifier_Operational)(type Legacy)(uri C:/Users/Rens/Documents/Workspace/pcbreceiver/pcb2/Amplifier_Operational.lib)(options "")(descr ""))
+  (lib (name USB-A-S-X-X-TH)(type Legacy)(uri ${KIPRJMOD}/library/USB-A-S-X-X-TH.lib)(options "")(descr ""))
+)

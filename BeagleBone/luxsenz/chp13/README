@@ -1,0 +1,7 @@
+High-Speed Analog to Digital Conversion (ADC) using the PRU-ICSS
+
+Written by Derek Molloy to support the book Exploring BeagleBone
+
+Please see http://www.exploringbeaglebone.com/chapter13/ for a full description of the code written by Derek Molloy in this directory.
+
+A few modifications have been written by Rens Bloom. See the LuxSenz documentation to use the altered code.

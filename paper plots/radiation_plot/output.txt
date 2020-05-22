@@ -1,0 +1,73 @@
+system_on
+
+ans =
+
+    0.4328
+
+system_on_day
+
+ans =
+
+    0.8587
+
+system_1
+
+ans =
+
+    0.5011
+
+system_1_day
+
+ans =
+
+    0.9943
+
+system_2
+
+ans =
+
+    0.3905
+
+system_2_day
+
+ans =
+
+    0.7749
+
+Not enough power, but enough light to comm. 200Lux
+
+ans =
+
+    0.0683
+
+duration of longest period [in hours]
+
+battery_time_max =
+
+    5.0833
+
+-----------------------------------
+Season1
+-----------------------------------
+Season2
+-----------------------------------
+Season3
+-----------------------------------
+Season4
+system_on
+    0.4686    0.5157    0.3976    0.3480
+
+system_on_day
+    0.8659    0.8824    0.8516    0.8243
+
+system_1
+    0.5378    0.5820    0.4641    0.4194
+
+system_1_day
+    0.9939    0.9957    0.9940    0.9933
+
+system_2
+    0.4281    0.4757    0.3529    0.3042
+
+system_2_day
+    0.7911    0.8138    0.7558    0.7206

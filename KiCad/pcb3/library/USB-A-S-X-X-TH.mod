@@ -1,0 +1,76 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+USB-A-S-X-X-TH
+$EndINDEX
+$MODULE USB-A-S-X-X-TH
+Po 0 0 0 15 00000000 00000000 ~~
+Li USB-A-S-X-X-TH
+Cd USB-A, SINGLE THRU HOLE.
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.461509 -5.65362 1.00331 1.00331 0 0.05 N V 21 "USB-A-S-X-X-TH"
+T1 0.17548 12.3984 1.00271 1.00271 0 0.05 N V 21 "VAL**"
+DS -7.3 -3.7 7.3 -3.7 0.127 24
+DS 7.3 -3.7 7.3 10.4 0.127 24
+DS 7.3 10.4 -7.3 10.4 0.127 24
+DS -7.3 10.4 -7.3 -3.7 0.127 24
+DS -7.8 -4.2 7.8 -4.2 0.127 21
+DS 7.8 -4.2 7.8 -2.08 0.127 21
+DS 7.8 2.08 7.8 10.9 0.127 21
+DS 7.8 10.9 -7.8 10.9 0.127 21
+DS -7.8 10.9 -7.8 2.08 0.127 21
+DS -7.8 -2.08 -7.8 -4.2 0.127 21
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.98 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.5 -2.71
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.98 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1 -2.71
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.98 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1 -2.71
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.98 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.5 -2.71
+$EndPAD
+$PAD
+Sh "5" C 3.4 3.4 0 0 0
+Dr 2.29 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -6.57 0
+$EndPAD
+$PAD
+Sh "6" C 3.4 3.4 0 0 0
+Dr 2.29 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.57 0
+$EndPAD
+$EndMODULE USB-A-S-X-X-TH

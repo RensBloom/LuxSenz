@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name Amplifier_Operational)(type Legacy)(uri ${KIPRJMOD}/library/Amplifier_Operational.lib)(options "")(descr "")(disabled))
+  (lib (name Analog_ADC)(type Legacy)(uri ${KIPRJMOD}/library/Analog_ADC.lib)(options "")(descr "")(disabled))
+  (lib (name MCU_ST_STM32L0)(type Legacy)(uri ${KIPRJMOD}/library/MCU_ST_STM32L0.lib)(options "")(descr "")(disabled))
+  (lib (name Regulator_Linear)(type Legacy)(uri ${KIPRJMOD}/library/Regulator_Linear.lib)(options "")(descr "")(disabled))
+  (lib (name Reference_Voltage)(type Legacy)(uri ${KIPRJMOD}/library/Reference_Voltage.lib)(options "")(descr "")(disabled))
+  (lib (name Sensor_Optical)(type Legacy)(uri ${KIPRJMOD}/library/Sensor_Optical.lib)(options "")(descr "")(disabled))
+  (lib (name Potentiometer_Digital)(type Legacy)(uri ${KIPRJMOD}/library/Potentiometer_Digital.lib)(options "")(descr "")(disabled))
+  (lib (name pcb4-rescue)(type Legacy)(uri ${KIPRJMOD}/library/pcb4-rescue.lib)(options "")(descr "")(disabled))
+)

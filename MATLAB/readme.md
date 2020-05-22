@@ -1,0 +1,1 @@
+In this folder you can find the MATLAB files that were used to process data for the LuxSenz project, and source code for generating plots used in documentation and papers.

@@ -1,0 +1,15 @@
+https://www.nrel.gov/grid/solar-resource/confrrm.html
+
+most northerly location:
+
+West Virginia: Bluefield
+
+
+However, this one has a lot more data availabe:
+
+Elizabeth City State University
+
+Latitude: 36.28° north
+Longitude: 176.22° west
+Elevation: 26 meters
+Time zone: -5

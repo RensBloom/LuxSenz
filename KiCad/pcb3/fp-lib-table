@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name USB-A-S-X-X-TH)(type Legacy)(uri ${KIPRJMOD}/USB-A-S-X-X-TH.mod)(options "")(descr ""))
+)

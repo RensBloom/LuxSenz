@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#We need to run the ./n bash file twice, somehow
+./n
+./n
